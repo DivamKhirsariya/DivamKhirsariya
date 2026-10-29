@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DivamKhirsariya
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JAVA, Web Development, Python, DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hey, I'm **@DivamKhirsariya**
 
-<!---
-DivamKhirsariya/DivamKhirsariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-🤖 Generative AI Engineer building production-ready AI agents, MCP servers, and hybrid RAG systems.
+
+-⚡ Turning LLMs into reliable, tool-using AI systems.
